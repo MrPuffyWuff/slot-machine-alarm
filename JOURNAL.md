@@ -29,3 +29,14 @@ _A very colorful combination of the two, probably the most similar to what I aim
 
 Hopefully you kind of have a picture of the physical shape. Ofc subject to change, but this is hopefully what it'll look like. Cya Later!  
 
+## 10/26/2025 - Planned the Shape  
+
+Allo!
+
+Bit of a shorter one, but thats bc u can see most of it. I spent the time mostly planning out the shape and other functions. Ill also update my BOM after to reflect some new changes. TLDR if the img too hard to read, Ima use LEDs to hide a small screen, and I planned out symbol values. Cadding is next!
+
+[SlotAlarmNotes PDF](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTg4MywicHVyIjoiYmxvYl9pZCJ9fQ==--1284f184f15a939fe4b691e0f8026c94593efd28/SlotAlarm.pdf)!
+
+![SlotAlarmNotes](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTg4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--d3bb527e6e635ddbd519d6291acd40b8d9c06e6b/SlotAlarmNotes.jpg)
+  
+
